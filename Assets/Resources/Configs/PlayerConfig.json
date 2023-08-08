@@ -1,0 +1,15 @@
+{
+ "movementVelocity": 10,
+ "jumpVelocity": 20,
+ "jumpTimes": 2,
+ "inAirJumpMultiplier": 0.8,
+ 
+ 
+ "Energy" : 150,
+ "consumeSpeed" : 5,
+ 
+ "atkSpeed" : 0.45,
+ "timeResetCombo" : 1.25,
+ 
+ "meleeDmg" : 20
+}

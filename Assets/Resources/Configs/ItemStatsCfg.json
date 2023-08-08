@@ -1,0 +1,2510 @@
+{
+ "itemInfors": [
+  {
+   "typeItem": "Hair",
+   "itemStatsCfgs": [
+    {
+     "Codename": "FHairA",
+     "Genre": "Female",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairB",
+     "Genre": "Female",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairC",
+     "Genre": "Female",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairD",
+     "Genre": "Female",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairE",
+     "Genre": "Female",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairF",
+     "Genre": "Female",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairG",
+     "Genre": "Female",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 25,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "FHairH",
+     "Genre": "Female",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Hat",
+   "itemStatsCfgs": [
+    {
+     "Codename": "HatA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatC",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatD",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatE",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatF",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatG",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatH",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatI",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatJ",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatK",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatL",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatM",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatN",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatO",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatP",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatQ",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatR",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatS",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatT",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatU",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatV",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "HatW",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Shoes",
+   "itemStatsCfgs": [
+    {
+     "Codename": "ShoesA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesC",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesD",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesE",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesF",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesG",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesH",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesI",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesJ",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesK",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesL",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesM",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesN",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesO",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesP",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesQ",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesR",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesS",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesT",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesU",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesV",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ShoesW",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Back",
+   "itemStatsCfgs": [
+    {
+     "Codename": "BackA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackC",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        15,
+        20,
+        25,
+        30
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackD",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        15,
+        20,
+        25,
+        30
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackE",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackF",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackG",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackH",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "BackI",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Cloth",
+   "itemStatsCfgs": [
+    {
+     "Codename": "ClothA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothC",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothD",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothE",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothF",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothG",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothH",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothI",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothJ",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothK",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothL",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothM",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothN",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothO",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothP",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothQ",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothR",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothS",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothT",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothU",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothV",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothW",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothX",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothY",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "ClothZ",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Armor",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Socks",
+   "itemStatsCfgs": [
+    {
+     "Codename": "SocksA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksC",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksD",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksE",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksF",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksG",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 25,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksH",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "HP",
+       "Mod": "BUFF",
+       "Val": 25,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "SocksI",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Weapon",
+   "itemStatsCfgs": [
+    {
+     "Codename": "WeaponA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponC",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponD",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponE",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponF",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponG",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponH",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponI",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponJ",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponK",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponL",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponM",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponN",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponO",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponP",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponQ",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponR",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponS",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponT",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponU",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponV",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponW",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponX",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponY",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "WeaponZ",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "ATK",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "typeItem": "Eyes",
+   "itemStatsCfgs": [
+    {
+     "Codename": "EyesA",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesB",
+     "Genre": "Both",
+     "Rarity": "Common",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 5,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesC",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesD",
+     "Genre": "Both",
+     "Rarity": "Uncommon",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 10,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesE",
+     "Genre": "Both",
+     "Rarity": "Rare",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 15,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesF",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesG",
+     "Genre": "Both",
+     "Rarity": "Epic",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 20,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesH",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesI",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesJ",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesK",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesL",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "Codename": "EyesM",
+     "Genre": "Both",
+     "Rarity": "Legend",
+     "Stats": [
+      {
+       "Stat": "Speed",
+       "Mod": "BUFF",
+       "Val": 30,
+       "Inc": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

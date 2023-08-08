@@ -1,0 +1,64 @@
+KEY,English
+English,English
+FHairA_Name,Hair
+FHairB_Name,Hair
+FHairC_Name,Hair
+FHairD_Name,Hair
+FHairE_Name,Hair
+FHairF_Name,Hair
+FHairG_Name,Hair
+FHairH_Name,Hair
+FHairA_Description,Equip this hair item to increase {0}% basic hp
+FHairB_Description,Equip this hair item to increase {0}% basic hp
+FHairC_Description,Equip this hair item to increase {0}% basic hp
+FHairD_Description,Equip this hair item to increase {0}% basic hp
+FHairE_Description,Equip this hair item to increase {0}% basic hp
+FHairF_Description,Equip this hair item to increase {0}% basic hp
+FHairG_Description,Equip this hair item to increase {0}% basic hp
+FHairH_Description,Equip this hair item to increase {0}% basic hp
+HatA_Name,Rabbit ear hat
+HatB_Name,Knot
+HatC_Name,Fleece Hat
+HatD_Name,Warrior hat I
+HatE_Name,Warrior hat II
+HatF_Name,Warrior hat III
+HatG_Name,Winter Hat
+HatH_Name,Boy Hat
+HatI_Name,Engineer Hat
+HatJ_Name,Student Hat
+HatK_Name,Knot II
+HatL_Name,Frog hat
+HatM_Name,Police Hat
+HatN_Name,Mask
+HatO_Name,Rabbit hat
+HatP_Name,Beach Hat
+HatQ_Name,Straw man hat
+HatR_Name,Beach Hat
+HatS_Name,Warrior hat IV
+HatT_Name,Mane
+HatU_Name,Sheep's ear hat
+HatV_Name,Sorcerer's Hat I
+HatW_Name,Sorcerer's Hat II
+HatA_Description,Decrease {0}% damage got from enemies
+HatB_Description,Decrease {0}% damage got from enemies
+HatC_Description,Decrease {0}% damage got from enemies
+HatD_Description,Decrease {0}% damage got from enemies
+HatE_Description,Decrease {0}% damage got from enemies
+HatF_Description,Decrease {0}% damage got from enemies
+HatG_Description,Decrease {0}% damage got from enemies
+HatH_Description,Decrease {0}% damage got from enemies
+HatI_Description,Decrease {0}% damage got from enemies
+HatJ_Description,Decrease {0}% damage got from enemies
+HatK_Description,Decrease {0}% damage got from enemies
+HatL_Description,Decrease {0}% damage got from enemies
+HatM_Description,Decrease {0}% damage got from enemies
+HatN_Description,Decrease {0}% damage got from enemies
+HatO_Description,Decrease {0}% damage got from enemies
+HatP_Description,Decrease {0}% damage got from enemies
+HatQ_Description,Decrease {0}% damage got from enemies
+HatR_Description,Decrease {0}% damage got from enemies
+HatS_Description,Decrease {0}% damage got from enemies
+HatT_Description,Decrease {0}% damage got from enemies
+HatU_Description,Decrease {0}% damage got from enemies
+HatV_Description,Decrease {0}% damage got from enemies
+HatW_Description,Decrease {0}% damage got from enemies

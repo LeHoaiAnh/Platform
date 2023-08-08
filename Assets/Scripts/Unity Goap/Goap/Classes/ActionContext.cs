@@ -1,0 +1,3 @@
+﻿namespace Goap.Classes
+{
+}

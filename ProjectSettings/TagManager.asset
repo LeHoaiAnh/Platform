@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - Boost
+  - Missile
+  - Drop
+  - Golem
+  - ground
+  - Projectile
+  - BatTag
+  - LittleEnemy
+  - LittleBullet
+  - New tag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hint
+  - Water
+  - UI
+  - Ground
+  - Weapon
+  - ToolBox
+  - Wall
+  - Player
+  - Enemy
+  - PauseMenu
+  - FatalSurrounding
+  - DamageSurrounding
+  - BatPatrol
+  - Obstacle
+  - UICamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3960792791
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 853822939
+    locked: 0

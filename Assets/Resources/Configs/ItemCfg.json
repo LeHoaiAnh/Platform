@@ -1,0 +1,592 @@
+{
+ "listItems": [
+  {
+   "typeItem": "Hair",
+   "items": [
+    {
+     "codename": "FHairA",
+     "price": 5
+    },
+    {
+     "codename": "FHairB",
+     "price": 5
+    },
+    {
+     "codename": "FHairC",
+     "price": 10
+    },
+    {
+     "codename": "FHairD",
+     "price": 15
+    },
+    {
+     "codename": "FHairE",
+     "price": 15
+    },
+    {
+     "codename": "FHairF",
+     "price": 20
+    },
+    {
+     "codename": "FHairG",
+     "price": 25
+    },
+    {
+     "codename": "FHairH",
+     "price": 30
+    }
+   ]
+  },
+  {
+   "typeItem": "Hat",
+   "items": [
+    {
+     "codename": "HatA",
+     "price": 5
+    },
+    {
+     "codename": "HatB",
+     "price": 5
+    },
+    {
+     "codename": "HatC",
+     "price": 5
+    },
+    {
+     "codename": "HatD",
+     "price": 5
+    },
+    {
+     "codename": "HatE",
+     "price": 5
+    },
+    {
+     "codename": "HatF",
+     "price": 5
+    },
+    {
+     "codename": "HatG",
+     "price": 5
+    },
+    {
+     "codename": "HatH",
+     "price": 5
+    },
+    {
+     "codename": "HatI",
+     "price": 10
+    },
+    {
+     "codename": "HatJ",
+     "price": 10
+    },
+    {
+     "codename": "HatK",
+     "price": 10
+    },
+    {
+     "codename": "HatL",
+     "price": 10
+    },
+    {
+     "codename": "HatM",
+     "price": 15
+    },
+    {
+     "codename": "HatN",
+     "price": 15
+    },
+    {
+     "codename": "HatO",
+     "price": 15
+    },
+    {
+     "codename": "HatP",
+     "price": 15
+    },
+    {
+     "codename": "HatQ",
+     "price": 20
+    },
+    {
+     "codename": "HatR",
+     "price": 20
+    },
+    {
+     "codename": "HatS",
+     "price": 20
+    },
+    {
+     "codename": "HatT",
+     "price": 25
+    },
+    {
+     "codename": "HatU",
+     "price": 25
+    },
+    {
+     "codename": "HatV",
+     "price": 25
+    },
+    {
+     "codename": "HatW",
+     "price": 25
+    }
+   ]
+  },
+  {
+   "typeItem": "Shoes",
+   "items": [
+    {
+     "codename": "ShoesA",
+     "price": 5
+    },
+    {
+     "codename": "ShoesB",
+     "price": 5
+    },
+    {
+     "codename": "ShoesC",
+     "price": 5
+    },
+    {
+     "codename": "ShoesD",
+     "price": 5
+    },
+    {
+     "codename": "ShoesE",
+     "price": 5
+    },
+    {
+     "codename": "ShoesF",
+     "price": 5
+    },
+    {
+     "codename": "ShoesG",
+     "price": 5
+    },
+    {
+     "codename": "ShoesH",
+     "price": 5
+    },
+    {
+     "codename": "ShoesI",
+     "price": 10
+    },
+    {
+     "codename": "ShoesJ",
+     "price": 10
+    },
+    {
+     "codename": "ShoesK",
+     "price": 10
+    },
+    {
+     "codename": "ShoesL",
+     "price": 10
+    },
+    {
+     "codename": "ShoesM",
+     "price": 15
+    },
+    {
+     "codename": "ShoesN",
+     "price": 15
+    },
+    {
+     "codename": "ShoesO",
+     "price": 15
+    },
+    {
+     "codename": "ShoesP",
+     "price": 15
+    },
+    {
+     "codename": "ShoesQ",
+     "price": 20
+    },
+    {
+     "codename": "ShoesR",
+     "price": 20
+    },
+    {
+     "codename": "ShoesS",
+     "price": 20
+    },
+    {
+     "codename": "ShoesT",
+     "price": 25
+    },
+    {
+     "codename": "ShoesU",
+     "price": 25
+    },
+    {
+     "codename": "ShoesV",
+     "price": 25
+    },
+    {
+     "codename": "ShoesW",
+     "price": 25
+    }
+   ]
+  },
+  {
+   "typeItem": "Back",
+   "items": [
+    {
+     "codename": "BackA",
+     "price": 5
+    },
+    {
+     "codename": "BackB",
+     "price": 5
+    },
+    {
+     "codename": "BackC",
+     "price": 10
+    },
+    {
+     "codename": "BackD",
+     "price": 15
+    },
+    {
+     "codename": "BackE",
+     "price": 15
+    },
+    {
+     "codename": "BackF",
+     "price": 20
+    },
+    {
+     "codename": "BackG",
+     "price": 25
+    },
+    {
+     "codename": "BackH",
+     "price": 30
+    },
+    {
+     "codename": "BackI",
+     "price": 30
+    }
+   ]
+  },
+  {
+   "typeItem": "Weapon",
+   "items": [
+    {
+     "codename": "WeaponA",
+     "price": 5
+    },
+    {
+     "codename": "WeaponB",
+     "price": 5
+    },
+    {
+     "codename": "WeaponC",
+     "price": 5
+    },
+    {
+     "codename": "WeaponD",
+     "price": 5
+    },
+    {
+     "codename": "WeaponE",
+     "price": 5
+    },
+    {
+     "codename": "WeaponF",
+     "price": 5
+    },
+    {
+     "codename": "WeaponG",
+     "price": 5
+    },
+    {
+     "codename": "WeaponH",
+     "price": 5
+    },
+    {
+     "codename": "WeaponI",
+     "price": 10
+    },
+    {
+     "codename": "WeaponJ",
+     "price": 10
+    },
+    {
+     "codename": "WeaponK",
+     "price": 10
+    },
+    {
+     "codename": "WeaponL",
+     "price": 10
+    },
+    {
+     "codename": "WeaponM",
+     "price": 15
+    },
+    {
+     "codename": "WeaponN",
+     "price": 15
+    },
+    {
+     "codename": "WeaponO",
+     "price": 15
+    },
+    {
+     "codename": "WeaponP",
+     "price": 15
+    },
+    {
+     "codename": "WeaponQ",
+     "price": 20
+    },
+    {
+     "codename": "WeaponR",
+     "price": 20
+    },
+    {
+     "codename": "WeaponS",
+     "price": 20
+    },
+    {
+     "codename": "WeaponT",
+     "price": 25
+    },
+    {
+     "codename": "WeaponU",
+     "price": 25
+    },
+    {
+     "codename": "WeaponV",
+     "price": 25
+    },
+    {
+     "codename": "WeaponW",
+     "price": 25
+    },
+    {
+     "codename": "WeaponX",
+     "price": 25
+    },
+    {
+     "codename": "WeaponY",
+     "price": 25
+    },
+    {
+     "codename": "WeaponZ",
+     "price": 25
+    }
+   ]
+  },
+  {
+   "typeItem": "Socks",
+   "items": [
+    {
+     "codename": "SocksA",
+     "price": 5
+    },
+    {
+     "codename": "SocksB",
+     "price": 5
+    },
+    {
+     "codename": "SocksC",
+     "price": 10
+    },
+    {
+     "codename": "SocksD",
+     "price": 15
+    },
+    {
+     "codename": "SocksE",
+     "price": 15
+    },
+    {
+     "codename": "SocksF",
+     "price": 20
+    },
+    {
+     "codename": "SocksG",
+     "price": 25
+    },
+    {
+     "codename": "SocksH",
+     "price": 30
+    },
+    {
+     "codename": "SocksI",
+     "price": 30
+    }
+   ]
+  },
+  {
+   "typeItem": "Cloth",
+   "items": [
+    {
+     "codename": "ClothA",
+     "price": 5
+    },
+    {
+     "codename": "ClothB",
+     "price": 5
+    },
+    {
+     "codename": "ClothC",
+     "price": 5
+    },
+    {
+     "codename": "ClothD",
+     "price": 5
+    },
+    {
+     "codename": "ClothE",
+     "price": 5
+    },
+    {
+     "codename": "ClothF",
+     "price": 5
+    },
+    {
+     "codename": "ClothG",
+     "price": 5
+    },
+    {
+     "codename": "ClothH",
+     "price": 5
+    },
+    {
+     "codename": "ClothI",
+     "price": 10
+    },
+    {
+     "codename": "ClothJ",
+     "price": 10
+    },
+    {
+     "codename": "ClothK",
+     "price": 10
+    },
+    {
+     "codename": "ClothL",
+     "price": 10
+    },
+    {
+     "codename": "ClothM",
+     "price": 15
+    },
+    {
+     "codename": "ClothN",
+     "price": 15
+    },
+    {
+     "codename": "ClothO",
+     "price": 15
+    },
+    {
+     "codename": "ClothP",
+     "price": 15
+    },
+    {
+     "codename": "ClothQ",
+     "price": 20
+    },
+    {
+     "codename": "ClothR",
+     "price": 20
+    },
+    {
+     "codename": "ClothS",
+     "price": 20
+    },
+    {
+     "codename": "ClothT",
+     "price": 25
+    },
+    {
+     "codename": "ClothU",
+     "price": 25
+    },
+    {
+     "codename": "ClothV",
+     "price": 25
+    },
+    {
+     "codename": "ClothW",
+     "price": 25
+    },
+    {
+     "codename": "ClothX",
+     "price": 25
+    },
+    {
+     "codename": "ClothY",
+     "price": 25
+    },
+    {
+     "codename": "ClothZ",
+     "price": 25
+    }
+   ]
+  },
+  {
+   "typeItem": "Eyes",
+   "items": [
+    {
+     "codename": "EyesA",
+     "price": 5
+    },
+    {
+     "codename": "EyesB",
+     "price": 5
+    },
+    {
+     "codename": "EyesC",
+     "price": 10
+    },
+    {
+     "codename": "EyesD",
+     "price": 15
+    },
+    {
+     "codename": "EyesE",
+     "price": 15
+    },
+    {
+     "codename": "EyesF",
+     "price": 20
+    },
+    {
+     "codename": "EyesG",
+     "price": 25
+    },
+    {
+     "codename": "EyesH",
+     "price": 30
+    },
+    {
+     "codename": "EyesI",
+     "price": 30
+    },
+    {
+     "codename": "EyesJ",
+     "price": 30
+    },
+    {
+     "codename": "EyesK",
+     "price": 30
+    },
+    {
+     "codename": "EyesL",
+     "price": 30
+    },
+    {
+     "codename": "EyesM",
+     "price": 30
+    }
+   ]
+  }
+ ]
+}
